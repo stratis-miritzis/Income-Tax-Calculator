@@ -1,0 +1,12 @@
+<Name> Test </Name>
+<AFM> 999999999 </AFM>
+<Income> 100.0 </Income>
+<BasicTax> 5.35 </BasicTax>
+<TaxIncrease> 0.428 </TaxIncrease>
+<TotalTax> 5.778 </TotalTax>
+<Receipts> 0 </Receipts>
+<Entertainment> 0.0 </Entertainment>
+<Basic> 0.0 </Basic>
+<Travel> 0.0 </Travel>
+<Health> 0.0 </Health>
+<Other> 0.0 </Other>
